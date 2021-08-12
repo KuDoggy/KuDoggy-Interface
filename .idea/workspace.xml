@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8602546b-c32e-4b19-8fc4-8827da147080" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/KuDoggy-Interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/burn_white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circulation_white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/app.49b1213f.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/vendor.dad3aba9.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/KFOkCnqEu92Fr1MmgVxIIzQ.9391e6e2.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/KFOlCnqEu92Fr1MmEU9fBBc-.ddd11dab.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/KFOlCnqEu92Fr1MmSU5fBBc-.877b9231.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/KFOlCnqEu92Fr1MmWUlfBBc-.0344cc3c.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/KFOlCnqEu92Fr1MmYUtfBBc-.b555d228.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/KFOmCnqEu92Fr1Mu4mxM.9b78ea3b.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.55e9c550.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.c934fe77.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hot.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/roadmap.43e9749c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/2.f3c6f48f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/3.f94f9c29.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/4.362be047.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/app.9dc0aefc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor.8949692c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/liquidity_white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rich_doggy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roadmap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stake_white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/supplies_white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whitebit_annouce.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="8602546b-c32e-4b19-8fc4-8827da147080" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,10 +32,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebstormProjects\kudoggy.github.io" />
       <recent name="D:\WebstormProjects\KuDoggy-Interface" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -86,11 +50,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63344/kudoggy.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/KuDoggy-Interface/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -106,6 +74,7 @@
       <workItem from="1625636486969" duration="1117000" />
       <workItem from="1626848674190" duration="685000" />
       <workItem from="1626849663048" duration="1883000" />
+      <workItem from="1628754247775" duration="220000" />
     </task>
     <servers />
   </component>
@@ -122,5 +91,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
